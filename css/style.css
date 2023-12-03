@@ -3,6 +3,14 @@ body {
   color: #0c0c0c;
   background-color: #ffffff;
 }
+.navbar-brand img {
+  max-height: 80px; /* Set the maximum height for the logo */ /* Add a white border to the logo */
+  padding: 5px; /* Add some padding to the logo */
+}
+
+.navbar-brand span {
+  margin-left: 10px; /* Add some spacing between the logo and text */
+}
 
 .layout_padding {
   padding: 75px 0;
